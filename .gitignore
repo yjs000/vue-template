@@ -2,6 +2,7 @@
 node_modules
 /dist
 /src/js
+/src/menuData.js
 
 # local env files
 .env.local
