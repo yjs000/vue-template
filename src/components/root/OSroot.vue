@@ -44,8 +44,6 @@ const menuData = fetch();
 export default {
   name: "App",
   data() {
-    console.log(this.CmmnContent)
-    console.log(this.MyContent102010000)
     return {
       menuData,
       tabList: [],
