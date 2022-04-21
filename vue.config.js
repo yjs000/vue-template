@@ -15,4 +15,14 @@ module.exports = defineConfig({
     },
   },
   outputDir : outputDir,
+  css: {
+    loaderOptions: {
+      sass:{
+
+      },
+      postcss:{
+        
+      }
+    }
+  }
 })

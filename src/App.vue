@@ -10,5 +10,7 @@ export default {
 }
 </script>
 
-<style>
-</style>
+<style lang="sass">
+@import 'bootstrap/scss/bootstrap'
+</style>>
+
