@@ -111,3 +111,7 @@ export default {
   },
 };
 </script>
+
+<style>
+@import 'bootstrap/scss/bootstrap.scss';
+</style>
